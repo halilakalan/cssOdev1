@@ -1,0 +1,43 @@
+/******************** body *********************/
+body {
+    background-color:#FDD2BF;
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+/******************** head *********************/
+.main-text {
+    color:#4F0E0E;
+    font-size: 50px;
+}
+
+/******************** nav *********************/
+a {
+    text-decoration: none;
+    color: #DF5E5E;
+  }
+
+a:hover {
+    color: #492F10;
+  }
+
+.nav > li {
+    display: inline;
+    margin-right: 10px;
+    list-style-type: none;
+    font-size: 30px;
+}
+
+/******************** content-index *********************/
+.content-article {
+    color:#492F10;
+}
+.content {
+    color: #DF5E5E;
+}
+.content-list {
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 40%;
+}
